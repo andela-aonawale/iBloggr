@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>92F41B40-56E4-4C2D-B250-F13208D8D8C4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BlogPost</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>45746E8987B5A4424E4E9C42672B5279C031D8E0</key>
+		<string>https://github.com/andela-aonawale/ios-blog-post-client.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BlogPost.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>45746E8987B5A4424E4E9C42672B5279C031D8E0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/andela-aonawale/ios-blog-post-client.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>45746E8987B5A4424E4E9C42672B5279C031D8E0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>45746E8987B5A4424E4E9C42672B5279C031D8E0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BlogPost</string>
+		</dict>
+	</array>
+</dict>
+</plist>
